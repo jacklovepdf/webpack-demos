@@ -20,7 +20,7 @@ module.exports = {
             {
                 test: /\.css$/, // Only .css files
                 loader: 'style!css!postcss' // Run both loaders
-            },
+            }
         ]
     },
     plugins: [
