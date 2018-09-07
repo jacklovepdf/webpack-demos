@@ -1,4 +1,4 @@
-var data = require('data');
+var data = require('feature_demos/demo14/data');
 var React = require('react');
 var ReactDOM = require('react-dom');
 
